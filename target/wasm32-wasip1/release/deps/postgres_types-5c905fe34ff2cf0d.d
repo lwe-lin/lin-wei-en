@@ -1,0 +1,11 @@
+C:\programming\Rust\lwe-lin\target\wasm32-wasip1\release\deps\postgres_types-5c905fe34ff2cf0d.d: C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\lib.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\pg_lsn.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\private.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\special.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\type_gen.rs
+
+C:\programming\Rust\lwe-lin\target\wasm32-wasip1\release\deps\libpostgres_types-5c905fe34ff2cf0d.rlib: C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\lib.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\pg_lsn.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\private.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\special.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\type_gen.rs
+
+C:\programming\Rust\lwe-lin\target\wasm32-wasip1\release\deps\libpostgres_types-5c905fe34ff2cf0d.rmeta: C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\lib.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\pg_lsn.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\private.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\special.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\type_gen.rs
+
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\lib.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\pg_lsn.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\private.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\special.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\postgres-types-0.2.13\src\type_gen.rs:

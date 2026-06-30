@@ -1,0 +1,12 @@
+C:\programming\Rust\lwe-lin\target\debug\deps\chacha20-53334bbeacbe0bf7.d: C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\lib.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\variants.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\rng.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\../README.md C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\soft.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\avx2.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\sse2.rs
+
+C:\programming\Rust\lwe-lin\target\debug\deps\libchacha20-53334bbeacbe0bf7.rmeta: C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\lib.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\variants.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\rng.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\../README.md C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\soft.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\avx2.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\sse2.rs
+
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\lib.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\variants.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\rng.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\../README.md:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\soft.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\avx2.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\sse2.rs:

@@ -1,0 +1,10 @@
+C:\programming\Rust\lwe-lin\target\debug\deps\wasi-1c222b0eab329fe4.d: C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\lib.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\ext\mod.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\ext\std.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\bindings.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\command.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\proxy.rs
+
+C:\programming\Rust\lwe-lin\target\debug\deps\libwasi-1c222b0eab329fe4.rmeta: C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\lib.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\ext\mod.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\ext\std.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\bindings.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\command.rs C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\proxy.rs
+
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\lib.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\ext\mod.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\ext\std.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\bindings.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\command.rs:
+C:\Users\林暐恩\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasi-0.13.1+wasi-0.2.0\src\proxy.rs:
