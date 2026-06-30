@@ -1,0 +1,77 @@
+#:schema https://schemas.spinframework.dev/spin/manifest-v2/latest.json
+
+spin_manifest_version = 2
+
+[application]
+name = "lin-wei-en"
+version = "0.1.0"
+authors = ["GH15339 <why20231127@gmail.com>"]
+description = ""
+
+# 首頁
+[[trigger.http]]
+route = "/"
+component = "lwe-lin"
+
+[component.lwe-lin]
+source = "target/wasm32-wasip1/release/lin_wei_en.wasm"
+allowed_outbound_hosts = []
+files = [ { source = "index.html", destination = "/index.html" }, ]
+
+[component.lwe-lin.build]
+command = "cargo build --target wasm32-wasip1 --release"
+watch = ["src/lib.rs", "Cargo.toml"]
+
+# 資源
+[[trigger.http]]
+route = "/..."
+component = "static"
+
+[component.static]
+source = "spin_static_fs.wasm"
+allowed_outbound_hosts = []
+files = [
+    { source = "bootstrap-5.3.8-dist/", destination = "/bootstrap-5.3.8-dist/" },
+    { source = "img/", destination = "/img/" },
+]
+
+# AI 首頁
+[[trigger.http]]
+route = "/ai/home"
+component = "ai-home"
+
+[component.ai-home]
+source = "target/wasm32-wasip1/release/ai_home.wasm"
+allowed_outbound_hosts = []
+files = [ { source = "ai-home/", destination = "/" } ]
+
+[component.ai-home.build]
+command = "cargo build --target wasm32-wasip1 --release"
+watch = ["src/bin/ai_home.rs", "Cargo.toml"]
+
+# AI服務
+[[trigger.http]]
+route = "/ai"
+component = "ai"
+
+[component.ai]
+source = "target/wasm32-wasip1/release/ai.wasm"
+allowed_outbound_hosts = []
+ai_models = ["llama2-chat"]
+[component.ai.build]
+command = "cargo build --target wasm32-wasip1 --release"
+watch = ["src/bin/ai.rs", "Cargo.toml"]
+
+# chess-game官網
+[[trigger.http]]
+route = "/chess-game/home/..."
+component = "chess-game"
+
+[component.chess-game]
+source = "target/wasm32-wasip1/release/chess_game.wasm"
+allowed_outbound_hosts = []
+files = [ { source = "chess-game/", destination = "/" }, ]
+
+[component.chess-game.build]
+command = "cargo build --target wasm32-wasip1 --release"
+watch = ["src/chess_game.rs", "Cargo.toml"]
