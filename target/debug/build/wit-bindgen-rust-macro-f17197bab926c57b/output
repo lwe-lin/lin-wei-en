@@ -1,2 +1,2 @@
 cargo:rerun-if-changed=build.rs
-cargo:rustc-env=DEBUG_OUTPUT_DIR=C:\programming\Rust\lwe-lin\target\debug\build\wit-bindgen-rust-macro-f17197bab926c57b\out
+cargo:rustc-env=DEBUG_OUTPUT_DIR=C:\programming\Rust\lin-wei-en\target\debug\build\wit-bindgen-rust-macro-f17197bab926c57b\out
