@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI</title>
+</head>
+<body>
+    <form method="post">
+        <textarea id="prompt" name="prompt" placeholder="請輸入提示詞" style="width: 400px; height: 100px;"></textarea>
+        <button id="button" type="submit">發送</button>
+    </form>
+    <p id="respond"></p>
+    <script>
+        document.getElementById('button').addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            const data = {
+                prompt: document.getElementById('prompt').value
+            };
+
+            fetch('https://lwe-lin-xaalv9j5.fermyon.app/ai', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.text())
+            .then(result => {
+                document.getElementById('respond').textContent = result;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>
